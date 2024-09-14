@@ -1,4 +1,8 @@
-![eft](https://github.com/sourceduty/Fake_Information_Purifier/assets/123030236/482a27b4-ff1d-48ff-9890-ae7e36c61373)
+![Fake](https://github.com/sourceduty/Fake_Information_Purifier/assets/123030236/482a27b4-ff1d-48ff-9890-ae7e36c61373)
+
+> Unbiased disinformation analyzer. Measure the deviance of fake information from the truth.
+
+#
 
 [Fake Information Purifier](https://chat.openai.com/g/g-ra1lMjzN8-fake-information-purifier) is designed to identify and clarify disinformation. It specializes in fact-checking, providing historical context, and assessing source credibility with an unbiased approach. This system analyzes various content, including social media posts and URLs, to create detailed reports on disinformation. It maintains a neutral stance, focusing on verifiable facts and credible sources, and communicates in a formal and professional manner. The goal is to provide clear, concise, and factual information, ensuring that users understand the complexities of disinformation and can recognize deviations from the truth.
 
@@ -32,6 +36,15 @@ This example demonstrates how the Fake Information Purifier helps users navigate
 
 <br>    
 </details>
+
+#
+
+![Fake](https://github.com/user-attachments/assets/b7273a6a-5fa0-45b3-82c8-eb0bddad3a0f)
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
